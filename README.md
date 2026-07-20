@@ -1,17 +1,17 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/mubarak-ibrahim-react/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/36884579/209070979-48d18396-0e5c-44aa-86b4-aadbb8dcb599.jpeg" width="100%" alt="Mubarak Ibrahim Banner" />
+    <img src="https://user-images.githubusercontent.com/36884579/209070979-48d18396-0e5c-44aa-86b4-aadbb8dcb599.jpeg" width="100%" alt="Mubarak Ibrahim Banner"/>
   </a>
 </p>
 
 <h1 align="center">Hi 👋, I'm Mubarak Ibrahim</h1>
 
 <h3 align="center">
-Software Engineer specializing in React, React Native & Native Android (Kotlin + Jetpack Compose)
+Software Engineer | React • React Native • Kotlin • Jetpack Compose • Node.js
 </h3>
 
 <p align="center">
-Building scalable mobile applications, modern web experiences, and backend services.
+Passionate about building scalable mobile applications, backend services, and modern web experiences.
 </p>
 
 ---
@@ -19,50 +19,55 @@ Building scalable mobile applications, modern web experiences, and backend servi
 ## 👨‍💻 About Me
 
 - 💼 Software Engineer with **5+ years** of professional experience
-- 📱 Building cross-platform apps with **React Native**
-- 🤖 Building native Android applications using **Kotlin** & **Jetpack Compose**
-- ⚛️ Passionate about creating beautiful, performant, and scalable user experiences
-- 🌍 Interested in Mobile Engineering, System Design, and AI-powered applications
-- 🌱 Currently exploring advanced Android development, Clean Architecture, Coroutines, Flow, and Compose best practices
-- 💬 Ask me about **React, React Native, Kotlin, Jetpack Compose, Node.js, TypeScript, Redux Toolkit, REST APIs, Firebase, and Mobile Architecture**
-- 📫 Reach me on **LinkedIn**: https://www.linkedin.com/in/mubarak-ibrahim-react/
+- 📱 Experienced in building cross-platform mobile applications with **React Native**
+- 🤖 Building native Android applications with **Kotlin** and **Jetpack Compose**
+- 🌐 Experienced in developing scalable backend services using **Node.js**, **Express.js**, and **MongoDB**
+- ⚛️ Strong background in React ecosystem, state management, and API integrations
+- 🌱 Currently deepening my knowledge of Android architecture, Coroutines, Flow, and Clean Architecture
+- 💬 Ask me about **React, React Native, Kotlin, Jetpack Compose, Node.js, Express.js, MongoDB, TypeScript, Redux Toolkit, RTK Query, Firebase, and Mobile Development**
+- 📫 Reach me on **LinkedIn:** <a href="https://www.linkedin.com/in/mubarak-ibrahim-react/">linkedin.com/in/mubarak-ibrahim-react</a>
 
 ---
 
 ## 🚀 Tech Stack
 
-### Mobile
+### 📱 Mobile Development
 
 - React Native
 - Kotlin
 - Jetpack Compose
 - Android SDK
+- Material Design 3
 - Coroutines
-- StateFlow & SharedFlow
-- Material 3
+- StateFlow
+- SharedFlow
 
-### Frontend
+### 🌐 Frontend
 
 - React
 - Next.js
-- TypeScript
 - JavaScript (ES6+)
+- TypeScript
 - Redux Toolkit
 - RTK Query
+- HTML5
+- CSS3
 - Tailwind CSS
 
-### Backend
+### ⚙️ Backend
 
 - Node.js
 - Express.js
 - MongoDB
 - Mongoose
 - REST APIs
+- JWT Authentication
+- Firebase
+- Cloudinary
 
-### Tools
+### 🛠 Tools & Technologies
 
 - Git & GitHub
-- Firebase
 - Android Studio
 - VS Code
 - Postman
@@ -72,14 +77,11 @@ Building scalable mobile applications, modern web experiences, and backend servi
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mubeess&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mubeess&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mubeess&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mubeess&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -92,10 +94,21 @@ Building scalable mobile applications, modern web experiences, and backend servi
 
 ---
 
+## 💡 What I Enjoy Building
+
+- 📱 Native Android Apps (Kotlin & Jetpack Compose)
+- 📱 Cross-platform Mobile Apps (React Native)
+- 🌐 Full-stack Web Applications
+- 🔗 REST APIs & Backend Services
+- 🏗 Scalable Software Architecture
+- ⚡ Performance-focused Mobile Experiences
+
+---
+
 ## 🤝 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/mubarak-ibrahim-react/">
+<a href="https://www.linkedin.com/in/mubarak-ibrahim-react">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -106,4 +119,4 @@ Building scalable mobile applications, modern web experiences, and backend servi
 
 ---
 
-> *"Great software isn't just built—it is carefully crafted with clean architecture, thoughtful design, and a great user experience."*
+> **"Building software that is scalable, maintainable, and delivers exceptional user experiences."**
