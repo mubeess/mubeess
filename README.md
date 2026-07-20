@@ -76,6 +76,87 @@ Passionate about building scalable mobile applications, backend services, and mo
 - npm
 
 ---
+## 🚀 Featured Projects
+
+### 📱 MadrasaSIMS
+A comprehensive school management platform that streamlines communication between schools, teachers, parents, and students through a modern mobile experience.
+
+**Tech Stack:** React Native, TypeScript, Redux Toolkit, RTK Query
+
+🔗 Repository: *Private*  
+🌐 Website: https://madrasasims.com
+
+---
+
+### 👨‍👩‍👧 SAFSIMS Parent App
+A parent-focused mobile application that enables parents to monitor attendance, academic performance, school fees, notifications, and communication with schools.
+
+**Tech Stack:** React Native, TypeScript, Redux Toolkit, Firebase
+
+🔗 Repository: *Private*
+
+---
+
+### 🚚 Trusty Logistics
+A logistics platform for managing deliveries with real-time tracking, rider management, and order processing.
+
+**Tech Stack:** React Native, Node.js, Express.js, MongoDB
+
+🔗 Repository: Private
+
+---
+
+### 🚖 G2 Driver
+Driver application built for transportation and ride management.
+
+**Tech Stack:** React Native, Google Maps, Geolocation, Firebase
+
+🔗 Repository: Private
+
+---
+
+### 💱 Reeple Currency
+A currency converter application providing real-time exchange rates with a clean and intuitive interface.
+
+**Tech Stack:** React Native, TypeScript, REST API
+
+🔗 GitHub: https://github.com/mubeess/reeplecurrency
+
+---
+
+### 🌾 Farm Together
+An agribusiness platform connecting farmers, investors, and agricultural opportunities.
+
+**Tech Stack:** React, Node.js, MongoDB
+
+🌐 https://farmtogether.com.ng
+
+---
+
+### 🎓 Modibbo Adama University Website
+Official university website redesign and development.
+
+**Tech Stack:** React
+
+🌐 https://mau.edu.ng
+
+---
+
+### 🇳🇬 Nigeria Morocco Business Week Portal
+Official portal developed for the Nigeria Morocco Business Week event.
+
+**Tech Stack:** React, Node.js
+
+🌐 https://nmbw.ng
+
+---
+
+### 💧 NIWRMC Portal
+Web portal developed for the Nigerian Integrated Water Resources Management Commission.
+
+**Tech Stack:** React, Node.js
+
+🌐 https://niwrmc.gov.ng
 
 ## 📊 GitHub Stats
 
